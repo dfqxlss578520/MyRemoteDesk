@@ -37,7 +37,7 @@ namespace RemoteDesk
             if (string.IsNullOrEmpty(password))
             {
                 MessageBox.Show("密码不能为空！", "温馨提示");
-                return;
+                return; 
             }
             try
             {
