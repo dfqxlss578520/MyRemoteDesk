@@ -13,6 +13,7 @@ namespace RemoteDesk
 {
     public partial class frmMain : Form
     {
+        //https://www.codeproject.com/Articles/43705/Remote-Desktop-using-C-NET
         public frmMain()
         {
             InitializeComponent();
